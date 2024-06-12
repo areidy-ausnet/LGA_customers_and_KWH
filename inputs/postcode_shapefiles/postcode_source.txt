@@ -1,0 +1,2 @@
+Postcode shapefile downloaded from https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/access-and-downloads/digital-boundary-files
+on 28/05/2024. File name was called "Postal Areas - 2021 - Shapefile"

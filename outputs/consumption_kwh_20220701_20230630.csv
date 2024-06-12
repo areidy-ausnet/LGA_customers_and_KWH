@@ -1,0 +1,1213 @@
+the_month,LGA_NAME23,class,kwh,nmi_count
+2022-07-01,Alpine,Commercial,2973759.3309,1542
+2022-07-01,Alpine,Industrial,2178158.686,22
+2022-07-01,Alpine,Residential,7878222.1677,7691
+2022-07-01,Banyule,Commercial,2234839.32496,1411
+2022-07-01,Banyule,Industrial,3489839.0885,58
+2022-07-01,Banyule,Residential,11756986.81654,22947
+2022-07-01,Bass Coast,Commercial,3783988.78628,2406
+2022-07-01,Bass Coast,Industrial,2545637.6798,61
+2022-07-01,Bass Coast,Residential,15389380.9049,29940
+2022-07-01,Baw Baw,Commercial,5940892.26,3868
+2022-07-01,Baw Baw,Industrial,8412647.6607,104
+2022-07-01,Baw Baw,Residential,14249496.75651,25013
+2022-07-01,Benalla,Commercial,1454314.68262,1249
+2022-07-01,Benalla,Industrial,4900329.294,30
+2022-07-01,Benalla,Residential,4231822.16095,7098
+2022-07-01,Brimbank,Commercial,286.1424,1
+2022-07-01,Cardinia,Commercial,7790275.62059,4783
+2022-07-01,Cardinia,Industrial,12126323.464,179
+2022-07-01,Cardinia,Residential,25191588.71961,44358
+2022-07-01,Casey,Commercial,11353482.12011,5521
+2022-07-01,Casey,Industrial,21041259.0333,343
+2022-07-01,Casey,Residential,51436886.10503,108611
+2022-07-01,Darebin,Commercial,293052.4899,127
+2022-07-01,Darebin,Industrial,1087286.5023,20
+2022-07-01,Darebin,Residential,1274525.96489,2327
+2022-07-01,East Gippsland,Commercial,5434687.57672,4010
+2022-07-01,East Gippsland,Industrial,5492433.0507000005,84
+2022-07-01,East Gippsland,Residential,15876099.05786,25856
+2022-07-01,Federation,Commercial,3.184,1
+2022-07-01,Frankston,Commercial,42139.3492,17
+2022-07-01,Frankston,Industrial,343584.5496,5
+2022-07-01,Frankston,Residential,20071.7136,24
+2022-07-01,Greater Dandenong,Commercial,274063.91370000003,81
+2022-07-01,Greater Dandenong,Industrial,661293.624,11
+2022-07-01,Greater Dandenong,Residential,5202.465,4
+2022-07-01,Greater Shepparton,Commercial,7481.552000000001,5
+2022-07-01,Greater Shepparton,Residential,5437.8376,8
+2022-07-01,Hume,Commercial,108215.8472,43
+2022-07-01,Hume,Industrial,1359317.47,16
+2022-07-01,Hume,Residential,1077763.6899,2624
+2022-07-01,Indigo,Commercial,1837295.31191,1335
+2022-07-01,Indigo,Industrial,3327442.8879,18
+2022-07-01,Indigo,Residential,5839737.66726,7738
+2022-07-01,Knox,Commercial,10426426.51935,6234
+2022-07-01,Knox,Industrial,20668003.713,282
+2022-07-01,Knox,Residential,26065628.51665,53055
+2022-07-01,Latrobe (Vic.),Commercial,7606619.44085,4091
+2022-07-01,Latrobe (Vic.),Industrial,35420722.7326,174
+2022-07-01,Latrobe (Vic.),Residential,19574081.54609,35758
+2022-07-01,Macedon Ranges,Commercial,43.098,1
+2022-07-01,Macedon Ranges,Residential,2545.051,3
+2022-07-01,Manningham,Commercial,794136.83323,377
+2022-07-01,Manningham,Industrial,143095.0,3
+2022-07-01,Manningham,Residential,4516100.79974,5082
+2022-07-01,Mansfield,Commercial,1730020.9673,959
+2022-07-01,Mansfield,Industrial,669360.6016,12
+2022-07-01,Mansfield,Residential,5114107.648,6404
+2022-07-01,Maroondah,Commercial,7989901.93223,4763
+2022-07-01,Maroondah,Industrial,16440644.5972,210
+2022-07-01,Maroondah,Residential,22902455.34548,47069
+2022-07-01,Mitchell,Commercial,3109343.22163,1782
+2022-07-01,Mitchell,Industrial,5514121.1871,87
+2022-07-01,Mitchell,Residential,11637462.35259,19601
+2022-07-01,Moira,Commercial,25089.483,68
+2022-07-01,Moira,Industrial,31036.21,1
+2022-07-01,Moira,Residential,163132.9827,198
+2022-07-01,Murrindindi,Commercial,2227331.76109,1557
+2022-07-01,Murrindindi,Industrial,1098966.3321,27
+2022-07-01,Murrindindi,Residential,6469382.90869,8141
+2022-07-01,Nillumbik,Commercial,3286958.65932,1705
+2022-07-01,Nillumbik,Industrial,5341468.2027,54
+2022-07-01,Nillumbik,Residential,16789662.45563,22691
+2022-07-01,Snowy Valleys,Residential,1129.6129999999998,3
+2022-07-01,South Gippsland,Commercial,4702005.10288,3458
+2022-07-01,South Gippsland,Industrial,7140552.8347000005,57
+2022-07-01,South Gippsland,Residential,10945322.59839,17047
+2022-07-01,Strathbogie,Commercial,1568311.41027,1294
+2022-07-01,Strathbogie,Industrial,1029608.8651,31
+2022-07-01,Strathbogie,Residential,3736638.17958,5574
+2022-07-01,Towong,Commercial,1107784.98361,926
+2022-07-01,Towong,Industrial,268838.886,8
+2022-07-01,Towong,Residential,2321695.37088,3174
+2022-07-01,Unincorporated Vic,Commercial,5159681.1951,594
+2022-07-01,Unincorporated Vic,Industrial,1373415.1400000001,16
+2022-07-01,Unincorporated Vic,Residential,2452167.9343,1586
+2022-07-01,Wangaratta,Commercial,3690756.97248,2609
+2022-07-01,Wangaratta,Industrial,7809321.76,70
+2022-07-01,Wangaratta,Residential,8617989.34177,13822
+2022-07-01,Wellington,Commercial,6363219.54612,4628
+2022-07-01,Wellington,Industrial,5447956.102,113
+2022-07-01,Wellington,Residential,13076999.13876,23406
+2022-07-01,Whitehorse,Residential,10285.4611,17
+2022-07-01,Whittlesea,Commercial,13118272.04446,6702
+2022-07-01,Whittlesea,Industrial,29762355.0181,374
+2022-07-01,Whittlesea,Residential,40241463.10621,84966
+2022-07-01,Wodonga,Commercial,3429944.7597,1841
+2022-07-01,Wodonga,Industrial,13974495.3293,114
+2022-07-01,Wodonga,Residential,9198846.2323,18775
+2022-07-01,Yarra Ranges,Commercial,9919293.11501,6179
+2022-07-01,Yarra Ranges,Industrial,12805239.9995,229
+2022-07-01,Yarra Ranges,Residential,37149900.95989,61594
+2022-08-01,Alpine,Commercial,2577052.3345,1568
+2022-08-01,Alpine,Industrial,2472956.712,22
+2022-08-01,Alpine,Residential,6502433.7656,7744
+2022-08-01,Banyule,Commercial,2178847.34722,1430
+2022-08-01,Banyule,Industrial,3446279.248,58
+2022-08-01,Banyule,Residential,10317398.80447,23092
+2022-08-01,Bass Coast,Commercial,3670285.2603,2390
+2022-08-01,Bass Coast,Industrial,2429730.3811,61
+2022-08-01,Bass Coast,Residential,13623875.28578,29925
+2022-08-01,Baw Baw,Commercial,5914405.9866,3864
+2022-08-01,Baw Baw,Industrial,9133455.8319,104
+2022-08-01,Baw Baw,Residential,12851269.40877,25072
+2022-08-01,Benalla,Commercial,1450408.2942,1222
+2022-08-01,Benalla,Industrial,5169051.632,30
+2022-08-01,Benalla,Residential,3743215.1766,7083
+2022-08-01,Brimbank,Commercial,286.1424,1
+2022-08-01,Cardinia,Commercial,7719234.7207,4782
+2022-08-01,Cardinia,Industrial,11900637.7184,181
+2022-08-01,Cardinia,Residential,22509112.30966,44389
+2022-08-01,Casey,Commercial,11078224.6841,5541
+2022-08-01,Casey,Industrial,20991095.2814,346
+2022-08-01,Casey,Residential,45983361.2311,108917
+2022-08-01,Darebin,Commercial,281280.84859999997,126
+2022-08-01,Darebin,Industrial,1058962.2958,20
+2022-08-01,Darebin,Residential,1108515.1451,2322
+2022-08-01,East Gippsland,Commercial,5132185.54919,4032
+2022-08-01,East Gippsland,Industrial,5470216.5103,84
+2022-08-01,East Gippsland,Residential,13824500.44452,25848
+2022-08-01,Federation,Commercial,3.174,1
+2022-08-01,Frankston,Commercial,37509.1824,19
+2022-08-01,Frankston,Industrial,335098.0446,5
+2022-08-01,Frankston,Residential,23563.7568,26
+2022-08-01,Greater Dandenong,Commercial,265801.0123,83
+2022-08-01,Greater Dandenong,Industrial,704558.082,11
+2022-08-01,Greater Dandenong,Residential,5177.7033,4
+2022-08-01,Greater Shepparton,Commercial,5691.737999999999,5
+2022-08-01,Greater Shepparton,Residential,4557.7236,8
+2022-08-01,Hume,Commercial,104732.6614,43
+2022-08-01,Hume,Industrial,1317826.596,16
+2022-08-01,Hume,Residential,942810.028,2668
+2022-08-01,Indigo,Commercial,1783093.3776,1328
+2022-08-01,Indigo,Industrial,3384461.9756,18
+2022-08-01,Indigo,Residential,5097344.58541,7715
+2022-08-01,Knox,Commercial,10236283.44818,6201
+2022-08-01,Knox,Industrial,20808919.5655,282
+2022-08-01,Knox,Residential,23140274.13055,53135
+2022-08-01,Latrobe (Vic.),Commercial,7427946.3217,4079
+2022-08-01,Latrobe (Vic.),Industrial,31466402.286599997,175
+2022-08-01,Latrobe (Vic.),Residential,17483123.85419,35757
+2022-08-01,Macedon Ranges,Commercial,0.0,1
+2022-08-01,Macedon Ranges,Residential,2100.751,3
+2022-08-01,Manningham,Commercial,776263.1677999999,376
+2022-08-01,Manningham,Industrial,139274.792,3
+2022-08-01,Manningham,Residential,4056797.44103,5114
+2022-08-01,Mansfield,Commercial,1586187.6443,957
+2022-08-01,Mansfield,Industrial,659206.7479,12
+2022-08-01,Mansfield,Residential,4214395.32281,6404
+2022-08-01,Maroondah,Commercial,7691624.3844,4718
+2022-08-01,Maroondah,Industrial,16768988.5988,210
+2022-08-01,Maroondah,Residential,20328368.52055,47053
+2022-08-01,Mitchell,Commercial,3018374.771,1782
+2022-08-01,Mitchell,Industrial,5342746.6077000005,87
+2022-08-01,Mitchell,Residential,10493060.3895,19674
+2022-08-01,Moira,Commercial,24590.4428,68
+2022-08-01,Moira,Industrial,29413.71,1
+2022-08-01,Moira,Residential,147196.3435,198
+2022-08-01,Murrindindi,Commercial,2077402.2027,1563
+2022-08-01,Murrindindi,Industrial,1034173.8454,27
+2022-08-01,Murrindindi,Residential,5640259.08273,8185
+2022-08-01,Nillumbik,Commercial,3193735.79806,1708
+2022-08-01,Nillumbik,Industrial,4433669.6677,53
+2022-08-01,Nillumbik,Residential,14477582.41635,22692
+2022-08-01,Snowy Valleys,Residential,656.933,3
+2022-08-01,South Gippsland,Commercial,4844083.9019,3455
+2022-08-01,South Gippsland,Industrial,7456149.6961,57
+2022-08-01,South Gippsland,Residential,9901282.19898,17067
+2022-08-01,Strathbogie,Commercial,1482906.83431,1284
+2022-08-01,Strathbogie,Industrial,1017088.1839000001,31
+2022-08-01,Strathbogie,Residential,3320888.00622,5583
+2022-08-01,Towong,Commercial,1011870.1309,905
+2022-08-01,Towong,Industrial,267918.532,8
+2022-08-01,Towong,Residential,1997181.0429,3144
+2022-08-01,Unincorporated Vic,Commercial,4653765.8996,601
+2022-08-01,Unincorporated Vic,Industrial,1553899.046,17
+2022-08-01,Unincorporated Vic,Residential,2458600.5952,1589
+2022-08-01,Wangaratta,Commercial,3497599.1949,2625
+2022-08-01,Wangaratta,Industrial,7862417.468,70
+2022-08-01,Wangaratta,Residential,7460045.44351,13810
+2022-08-01,Wellington,Commercial,6539262.83857,4626
+2022-08-01,Wellington,Industrial,5635591.62,113
+2022-08-01,Wellington,Residential,11518364.27824,23417
+2022-08-01,Whitehorse,Residential,9160.6789,17
+2022-08-01,Whittlesea,Commercial,12712470.58032,6652
+2022-08-01,Whittlesea,Industrial,29951282.8073,375
+2022-08-01,Whittlesea,Residential,35673501.73325,85196
+2022-08-01,Wodonga,Commercial,3318277.3101,1863
+2022-08-01,Wodonga,Industrial,14096846.6089,114
+2022-08-01,Wodonga,Residential,8136681.51981,18767
+2022-08-01,Yarra Ranges,Commercial,9823685.73698,6237
+2022-08-01,Yarra Ranges,Industrial,12552322.1812,230
+2022-08-01,Yarra Ranges,Residential,33256994.86377,61691
+2022-09-01,Alpine,Commercial,2309215.726,1570
+2022-09-01,Alpine,Industrial,2251969.1070000003,23
+2022-09-01,Alpine,Residential,5226220.60022,7743
+2022-09-01,Banyule,Commercial,1834935.6842,1398
+2022-09-01,Banyule,Industrial,3119320.6119999997,58
+2022-09-01,Banyule,Residential,8807276.9667,22946
+2022-09-01,Bass Coast,Commercial,3521066.5379,2398
+2022-09-01,Bass Coast,Industrial,2287730.6291,61
+2022-09-01,Bass Coast,Residential,12279952.29571,29975
+2022-09-01,Baw Baw,Commercial,5361186.46128,3908
+2022-09-01,Baw Baw,Industrial,9341493.3381,104
+2022-09-01,Baw Baw,Residential,11344088.27495,25129
+2022-09-01,Benalla,Commercial,1249215.3693,1247
+2022-09-01,Benalla,Industrial,4481584.0388,30
+2022-09-01,Benalla,Residential,3199251.7199,7096
+2022-09-01,Brimbank,Commercial,276.912,1
+2022-09-01,Cardinia,Commercial,6905941.77879,4814
+2022-09-01,Cardinia,Industrial,11222456.4023,182
+2022-09-01,Cardinia,Residential,19648124.94113,44486
+2022-09-01,Casey,Commercial,9606620.4077,5539
+2022-09-01,Casey,Industrial,19287288.3614,346
+2022-09-01,Casey,Residential,39332663.43818,109213
+2022-09-01,Darebin,Commercial,253422.3687,125
+2022-09-01,Darebin,Industrial,964170.9885,20
+2022-09-01,Darebin,Residential,951472.7834,2322
+2022-09-01,East Gippsland,Commercial,4719758.7152,4004
+2022-09-01,East Gippsland,Industrial,5285942.125,84
+2022-09-01,East Gippsland,Residential,11934998.23161,25865
+2022-09-01,Federation,Commercial,50.343,1
+2022-09-01,Frankston,Commercial,35561.3347,16
+2022-09-01,Frankston,Industrial,302328.0995,5
+2022-09-01,Frankston,Residential,21495.881999999998,24
+2022-09-01,Greater Dandenong,Commercial,223621.9143,81
+2022-09-01,Greater Dandenong,Industrial,681903.708,11
+2022-09-01,Greater Dandenong,Residential,4240.325,4
+2022-09-01,Greater Shepparton,Commercial,5612.1669999999995,5
+2022-09-01,Greater Shepparton,Residential,4553.0608,9
+2022-09-01,Hume,Commercial,99630.3538,45
+2022-09-01,Hume,Industrial,1258197.9378,16
+2022-09-01,Hume,Residential,816353.8312,2702
+2022-09-01,Indigo,Commercial,1583065.608,1321
+2022-09-01,Indigo,Industrial,3214628.8397000004,18
+2022-09-01,Indigo,Residential,4358904.4195,7710
+2022-09-01,Knox,Commercial,8620535.78068,6211
+2022-09-01,Knox,Industrial,19036805.144,282
+2022-09-01,Knox,Residential,19946196.41361,53193
+2022-09-01,Latrobe (Vic.),Commercial,6309492.7428,4019
+2022-09-01,Latrobe (Vic.),Industrial,29816368.369799998,175
+2022-09-01,Latrobe (Vic.),Residential,15148989.12381,35700
+2022-09-01,Macedon Ranges,Commercial,123.807,2
+2022-09-01,Macedon Ranges,Residential,2009.98,3
+2022-09-01,Manningham,Commercial,682186.9333,373
+2022-09-01,Manningham,Industrial,116983.848,3
+2022-09-01,Manningham,Residential,3540872.78917,5090
+2022-09-01,Mansfield,Commercial,1369160.8016,969
+2022-09-01,Mansfield,Industrial,530531.9996,12
+2022-09-01,Mansfield,Residential,3592954.11165,6444
+2022-09-01,Maroondah,Commercial,6590359.7961,4782
+2022-09-01,Maroondah,Industrial,15373425.1188,210
+2022-09-01,Maroondah,Residential,17635703.51859,47203
+2022-09-01,Mitchell,Commercial,2656275.74609,1809
+2022-09-01,Mitchell,Industrial,4802993.492,88
+2022-09-01,Mitchell,Residential,9341559.8378,19839
+2022-09-01,Moira,Commercial,21972.5737,81
+2022-09-01,Moira,Industrial,28162.39,1
+2022-09-01,Moira,Residential,127611.3819,205
+2022-09-01,Murrindindi,Commercial,1860074.2049,1545
+2022-09-01,Murrindindi,Industrial,956804.1631,27
+2022-09-01,Murrindindi,Residential,4943824.1521,8152
+2022-09-01,Nillumbik,Commercial,2697548.9857,1673
+2022-09-01,Nillumbik,Industrial,4222253.695300001,53
+2022-09-01,Nillumbik,Residential,12433162.9586,22605
+2022-09-01,Snowy Valleys,Residential,354.785,3
+2022-09-01,South Gippsland,Commercial,4615369.14579,3456
+2022-09-01,South Gippsland,Industrial,7306739.925,57
+2022-09-01,South Gippsland,Residential,8826600.99451,17076
+2022-09-01,Strathbogie,Commercial,1366656.965,1262
+2022-09-01,Strathbogie,Industrial,903408.5902,31
+2022-09-01,Strathbogie,Residential,2889855.0665,5579
+2022-09-01,Towong,Commercial,935621.6889,939
+2022-09-01,Towong,Industrial,236629.982,8
+2022-09-01,Towong,Residential,1817927.72488,3190
+2022-09-01,Unincorporated Vic,Commercial,3419604.376,597
+2022-09-01,Unincorporated Vic,Industrial,1180039.9581,17
+2022-09-01,Unincorporated Vic,Residential,1677187.6749,1587
+2022-09-01,Wangaratta,Commercial,3006413.4809,2591
+2022-09-01,Wangaratta,Industrial,7474029.4847,70
+2022-09-01,Wangaratta,Residential,6317229.1671,13819
+2022-09-01,Wellington,Commercial,6422433.2591,4620
+2022-09-01,Wellington,Industrial,5335738.0273,113
+2022-09-01,Wellington,Residential,10087827.1834,23424
+2022-09-01,Whitehorse,Residential,7040.583,17
+2022-09-01,Whittlesea,Commercial,11063372.73489,6635
+2022-09-01,Whittlesea,Industrial,27954488.3466,375
+2022-09-01,Whittlesea,Residential,31250186.00238,85402
+2022-09-01,Wodonga,Commercial,2841118.5439,1830
+2022-09-01,Wodonga,Industrial,13084160.8918,114
+2022-09-01,Wodonga,Residential,6922504.1061,18772
+2022-09-01,Yarra Ranges,Commercial,8457801.55443,6211
+2022-09-01,Yarra Ranges,Industrial,11520401.8862,230
+2022-09-01,Yarra Ranges,Residential,29022382.22255,61739
+2022-10-01,Alpine,Commercial,1906208.5932,1561
+2022-10-01,Alpine,Industrial,2273849.7021,23
+2022-10-01,Alpine,Residential,3778150.6026,7721
+2022-10-01,Banyule,Commercial,1805468.7412,1397
+2022-10-01,Banyule,Industrial,3335421.471,58
+2022-10-01,Banyule,Residential,7608592.8422,22945
+2022-10-01,Bass Coast,Commercial,3550406.5625,2412
+2022-10-01,Bass Coast,Industrial,2297784.1471,61
+2022-10-01,Bass Coast,Residential,10750661.4423,30067
+2022-10-01,Baw Baw,Commercial,5381236.8465,3889
+2022-10-01,Baw Baw,Industrial,9549446.6276,104
+2022-10-01,Baw Baw,Residential,10049281.3736,25142
+2022-10-01,Benalla,Commercial,1238667.7858,1238
+2022-10-01,Benalla,Industrial,4298081.888,30
+2022-10-01,Benalla,Residential,2742305.9157,7128
+2022-10-01,Brimbank,Commercial,286.1424,1
+2022-10-01,Cardinia,Commercial,7084437.5629,4829
+2022-10-01,Cardinia,Industrial,11870312.6005,182
+2022-10-01,Cardinia,Residential,17421162.5366,44620
+2022-10-01,Casey,Commercial,9619245.9418,5588
+2022-10-01,Casey,Industrial,19606580.147,346
+2022-10-01,Casey,Residential,34741330.13649,109672
+2022-10-01,Darebin,Commercial,258314.5819,126
+2022-10-01,Darebin,Industrial,944889.8975,20
+2022-10-01,Darebin,Residential,820475.1655,2322
+2022-10-01,East Gippsland,Commercial,4675519.8117,4006
+2022-10-01,East Gippsland,Industrial,5356891.1232,85
+2022-10-01,East Gippsland,Residential,10623904.7369,25916
+2022-10-01,Federation,Commercial,3.212,1
+2022-10-01,Frankston,Commercial,37300.1422,16
+2022-10-01,Frankston,Industrial,309377.9168,5
+2022-10-01,Frankston,Residential,18876.824,24
+2022-10-01,Greater Dandenong,Commercial,222405.3617,85
+2022-10-01,Greater Dandenong,Industrial,691324.4762,11
+2022-10-01,Greater Dandenong,Residential,3973.242,4
+2022-10-01,Greater Shepparton,Commercial,4744.184,5
+2022-10-01,Greater Shepparton,Residential,3721.0478000000003,7
+2022-10-01,Hume,Commercial,98063.6139,44
+2022-10-01,Hume,Industrial,1272149.3051,16
+2022-10-01,Hume,Residential,664394.164,2721
+2022-10-01,Indigo,Commercial,1522830.0269,1337
+2022-10-01,Indigo,Industrial,3170392.2245,18
+2022-10-01,Indigo,Residential,3658468.0588,7755
+2022-10-01,Knox,Commercial,8531421.663,6250
+2022-10-01,Knox,Industrial,19948985.5458,282
+2022-10-01,Knox,Residential,17437010.6184,53241
+2022-10-01,Latrobe (Vic.),Commercial,6233547.8492,4096
+2022-10-01,Latrobe (Vic.),Industrial,31736706.6164,175
+2022-10-01,Latrobe (Vic.),Residential,13583852.1851,35866
+2022-10-01,Macedon Ranges,Commercial,43.481,1
+2022-10-01,Macedon Ranges,Residential,1865.474,3
+2022-10-01,Manningham,Commercial,703861.4546,373
+2022-10-01,Manningham,Industrial,105242.95999999999,3
+2022-10-01,Manningham,Residential,3141643.467,5092
+2022-10-01,Mansfield,Commercial,1210793.5091,959
+2022-10-01,Mansfield,Industrial,528150.2287,12
+2022-10-01,Mansfield,Residential,2817136.2614,6419
+2022-10-01,Maroondah,Commercial,6268497.5871,4758
+2022-10-01,Maroondah,Industrial,15727025.4695,210
+2022-10-01,Maroondah,Residential,15273657.7206,47217
+2022-10-01,Mitchell,Commercial,2471515.404,1785
+2022-10-01,Mitchell,Industrial,4684303.1649,88
+2022-10-01,Mitchell,Residential,7864264.9153,19894
+2022-10-01,Moira,Commercial,22552.962199999998,68
+2022-10-01,Moira,Industrial,26922.23,1
+2022-10-01,Moira,Residential,103866.14170000001,198
+2022-10-01,Murrindindi,Commercial,1770964.1421,1556
+2022-10-01,Murrindindi,Industrial,898344.2871,27
+2022-10-01,Murrindindi,Residential,4175631.0302,8174
+2022-10-01,Nillumbik,Commercial,2697190.728,1704
+2022-10-01,Nillumbik,Industrial,4073824.7419000003,54
+2022-10-01,Nillumbik,Residential,11045274.9218,22731
+2022-10-01,Snowy Valleys,Residential,387.831,3
+2022-10-01,South Gippsland,Commercial,4599560.1395,3455
+2022-10-01,South Gippsland,Industrial,8049786.7808,57
+2022-10-01,South Gippsland,Residential,7662746.3016,17099
+2022-10-01,Strathbogie,Commercial,1268573.8087,1295
+2022-10-01,Strathbogie,Industrial,895877.5029,31
+2022-10-01,Strathbogie,Residential,2394759.5648,5605
+2022-10-01,Towong,Commercial,965239.7765,916
+2022-10-01,Towong,Industrial,239198.844,8
+2022-10-01,Towong,Residential,1495699.6588,3168
+2022-10-01,Unincorporated Vic,Commercial,1160581.1722,595
+2022-10-01,Unincorporated Vic,Industrial,427897.054,17
+2022-10-01,Unincorporated Vic,Residential,452684.2465,1586
+2022-10-01,Wangaratta,Commercial,2903124.0513,2613
+2022-10-01,Wangaratta,Industrial,7668996.682,70
+2022-10-01,Wangaratta,Residential,5264282.5565,13863
+2022-10-01,Wellington,Commercial,6533112.4641,4632
+2022-10-01,Wellington,Industrial,6494603.875,113
+2022-10-01,Wellington,Residential,9049120.172,23491
+2022-10-01,Whitehorse,Residential,5483.373,17
+2022-10-01,Whittlesea,Commercial,10914660.0139,6720
+2022-10-01,Whittlesea,Industrial,28588162.1499,375
+2022-10-01,Whittlesea,Residential,26847560.6991,85681
+2022-10-01,Wodonga,Commercial,2735714.2678,1852
+2022-10-01,Wodonga,Industrial,13145209.2022,114
+2022-10-01,Wodonga,Residential,5974925.87,18825
+2022-10-01,Yarra Ranges,Commercial,8448771.0821,6232
+2022-10-01,Yarra Ranges,Industrial,11571934.433,232
+2022-10-01,Yarra Ranges,Residential,25430693.7547,61695
+2022-11-01,Alpine,Commercial,1785526.3632,1567
+2022-11-01,Alpine,Industrial,2183011.48,23
+2022-11-01,Alpine,Residential,3286211.5834,7731
+2022-11-01,Banyule,Commercial,1821991.8805,1440
+2022-11-01,Banyule,Industrial,3284727.9954999997,58
+2022-11-01,Banyule,Residential,7422931.0982,23126
+2022-11-01,Bass Coast,Commercial,3288463.4828,2399
+2022-11-01,Bass Coast,Industrial,2245670.8187,61
+2022-11-01,Bass Coast,Residential,9411483.4771,30075
+2022-11-01,Baw Baw,Commercial,5248425.0994,3882
+2022-11-01,Baw Baw,Industrial,8896599.7324,104
+2022-11-01,Baw Baw,Residential,9427152.2762,25193
+2022-11-01,Benalla,Commercial,1149750.1617,1221
+2022-11-01,Benalla,Industrial,4250655.630000001,30
+2022-11-01,Benalla,Residential,2391372.9144,7098
+2022-11-01,Brimbank,Commercial,276.912,1
+2022-11-01,Cardinia,Commercial,6908278.3362,4823
+2022-11-01,Cardinia,Industrial,11262211.7492,182
+2022-11-01,Cardinia,Residential,16268429.2719,44663
+2022-11-01,Casey,Commercial,9273738.8683,5591
+2022-11-01,Casey,Industrial,18888718.9516,346
+2022-11-01,Casey,Residential,32130119.911,110006
+2022-11-01,Darebin,Commercial,254616.4373,128
+2022-11-01,Darebin,Industrial,917169.7611,20
+2022-11-01,Darebin,Residential,774779.5543,2328
+2022-11-01,East Gippsland,Commercial,4486734.2199,4026
+2022-11-01,East Gippsland,Industrial,5206759.9233,86
+2022-11-01,East Gippsland,Residential,9336405.4896,25900
+2022-11-01,Federation,Commercial,3.098,1
+2022-11-01,Frankston,Commercial,34928.9395,19
+2022-11-01,Frankston,Industrial,309772.378,5
+2022-11-01,Frankston,Residential,17475.747,26
+2022-11-01,Greater Dandenong,Commercial,233122.9883,87
+2022-11-01,Greater Dandenong,Industrial,685774.3589999999,11
+2022-11-01,Greater Dandenong,Residential,3764.916,4
+2022-11-01,Greater Shepparton,Commercial,3861.699,5
+2022-11-01,Greater Shepparton,Residential,3126.8644,7
+2022-11-01,Hume,Commercial,92951.8568,45
+2022-11-01,Hume,Industrial,1258979.317,16
+2022-11-01,Hume,Residential,610850.1284,2745
+2022-11-01,Indigo,Commercial,1441036.1637,1325
+2022-11-01,Indigo,Industrial,3165793.2033,18
+2022-11-01,Indigo,Residential,3160603.7854,7730
+2022-11-01,Knox,Commercial,8373292.3592,6211
+2022-11-01,Knox,Industrial,19845310.8246,287
+2022-11-01,Knox,Residential,16634622.9018,53342
+2022-11-01,Latrobe (Vic.),Commercial,5856474.1852,4097
+2022-11-01,Latrobe (Vic.),Industrial,30972146.9359,175
+2022-11-01,Latrobe (Vic.),Residential,12490942.2862,35874
+2022-11-01,Macedon Ranges,Commercial,0.0,1
+2022-11-01,Macedon Ranges,Residential,1561.8229999999999,3
+2022-11-01,Manningham,Commercial,678290.3665,376
+2022-11-01,Manningham,Industrial,95247.064,3
+2022-11-01,Manningham,Residential,3017445.3417,5124
+2022-11-01,Mansfield,Commercial,1124951.7194,955
+2022-11-01,Mansfield,Industrial,486617.584,12
+2022-11-01,Mansfield,Residential,2416946.1996,6426
+2022-11-01,Maroondah,Commercial,6229488.1094,4741
+2022-11-01,Maroondah,Industrial,15090489.334999999,211
+2022-11-01,Maroondah,Residential,14639024.064,47189
+2022-11-01,Mitchell,Commercial,2306498.9922,1797
+2022-11-01,Mitchell,Industrial,4663255.6548,88
+2022-11-01,Mitchell,Residential,7095329.5542,19967
+2022-11-01,Moira,Commercial,24616.2567,68
+2022-11-01,Moira,Industrial,28030.03,1
+2022-11-01,Moira,Residential,91258.4629,198
+2022-11-01,Murrindindi,Commercial,1733810.3849,1570
+2022-11-01,Murrindindi,Industrial,900637.5407,27
+2022-11-01,Murrindindi,Residential,3774901.4567,8215
+2022-11-01,Nillumbik,Commercial,2617791.5729,1709
+2022-11-01,Nillumbik,Industrial,3776235.6824000003,53
+2022-11-01,Nillumbik,Residential,10240103.4541,22710
+2022-11-01,Snowy Valleys,Residential,291.492,3
+2022-11-01,South Gippsland,Commercial,4389975.2805,3453
+2022-11-01,South Gippsland,Industrial,7968434.6965,57
+2022-11-01,South Gippsland,Residential,7037380.3354,17125
+2022-11-01,Strathbogie,Commercial,1267535.8188,1279
+2022-11-01,Strathbogie,Industrial,888469.914,31
+2022-11-01,Strathbogie,Residential,2093070.7898,5614
+2022-11-01,Towong,Commercial,856633.7528,906
+2022-11-01,Towong,Industrial,204294.504,8
+2022-11-01,Towong,Residential,1282662.1999,3145
+2022-11-01,Unincorporated Vic,Commercial,883586.1606,602
+2022-11-01,Unincorporated Vic,Industrial,345458.645,17
+2022-11-01,Unincorporated Vic,Residential,354261.0481,1589
+2022-11-01,Wangaratta,Commercial,2769823.0179,2608
+2022-11-01,Wangaratta,Industrial,6628321.992000001,70
+2022-11-01,Wangaratta,Residential,4656643.8531,13843
+2022-11-01,Wellington,Commercial,6407148.0335,4620
+2022-11-01,Wellington,Industrial,6320388.623,113
+2022-11-01,Wellington,Residential,7988382.6602,23498
+2022-11-01,Whitehorse,Residential,5080.7198,17
+2022-11-01,Whittlesea,Commercial,10614505.3997,6741
+2022-11-01,Whittlesea,Industrial,28723265.7272,375
+2022-11-01,Whittlesea,Residential,25244571.869,85856
+2022-11-01,Wodonga,Commercial,2584295.3996,1879
+2022-11-01,Wodonga,Industrial,13104268.5385,114
+2022-11-01,Wodonga,Residential,5364355.6295,18819
+2022-11-01,Yarra Ranges,Commercial,8494316.4642,6277
+2022-11-01,Yarra Ranges,Industrial,11649648.6732,232
+2022-11-01,Yarra Ranges,Residential,24338315.4109,61815
+2022-12-01,Alpine,Commercial,2063796.2181,1555
+2022-12-01,Alpine,Industrial,1884182.246,23
+2022-12-01,Alpine,Residential,3123982.8673,7727
+2022-12-01,Banyule,Commercial,1740167.5829,1402
+2022-12-01,Banyule,Industrial,3384570.768,58
+2022-12-01,Banyule,Residential,7956577.8742,22977
+2022-12-01,Bass Coast,Commercial,3419312.0822,2397
+2022-12-01,Bass Coast,Industrial,2326910.0966,61
+2022-12-01,Bass Coast,Residential,9769005.0503,30096
+2022-12-01,Baw Baw,Commercial,5269336.2636,3914
+2022-12-01,Baw Baw,Industrial,9658884.3125,105
+2022-12-01,Baw Baw,Residential,9562402.7055,25223
+2022-12-01,Benalla,Commercial,1218908.4342,1247
+2022-12-01,Benalla,Industrial,4018863.5439999998,30
+2022-12-01,Benalla,Residential,2609979.1331,7117
+2022-12-01,Brimbank,Commercial,286.1424,1
+2022-12-01,Cardinia,Commercial,6677533.4267,4844
+2022-12-01,Cardinia,Industrial,11125307.0403,187
+2022-12-01,Cardinia,Residential,17218679.9595,44772
+2022-12-01,Casey,Commercial,9247587.1819,5618
+2022-12-01,Casey,Industrial,19428257.5004,347
+2022-12-01,Casey,Residential,35213083.7018,110346
+2022-12-01,Darebin,Commercial,254543.3604,126
+2022-12-01,Darebin,Industrial,927067.1723,20
+2022-12-01,Darebin,Residential,861314.556,2323
+2022-12-01,East Gippsland,Commercial,4826432.2022,4010
+2022-12-01,East Gippsland,Industrial,5143140.1615,86
+2022-12-01,East Gippsland,Residential,9709088.3909,25927
+2022-12-01,Federation,Commercial,50.402,1
+2022-12-01,Frankston,Commercial,34481.705200000004,17
+2022-12-01,Frankston,Industrial,312073.7441,5
+2022-12-01,Frankston,Residential,15408.912,24
+2022-12-01,Greater Dandenong,Commercial,195620.3689,85
+2022-12-01,Greater Dandenong,Industrial,591302.186,11
+2022-12-01,Greater Dandenong,Residential,4245.297,4
+2022-12-01,Greater Shepparton,Commercial,3352.301,5
+2022-12-01,Greater Shepparton,Residential,2974.4223,8
+2022-12-01,Hume,Commercial,94540.5783,47
+2022-12-01,Hume,Industrial,1173247.972,16
+2022-12-01,Hume,Residential,675343.6092,2781
+2022-12-01,Indigo,Commercial,1565002.0236,1320
+2022-12-01,Indigo,Industrial,3172411.3391,18
+2022-12-01,Indigo,Residential,3141581.3414,7725
+2022-12-01,Knox,Commercial,7599029.303,6232
+2022-12-01,Knox,Industrial,19309236.9544,288
+2022-12-01,Knox,Residential,18092985.9641,53321
+2022-12-01,Latrobe (Vic.),Commercial,5467607.0076,4033
+2022-12-01,Latrobe (Vic.),Industrial,30880422.964300003,175
+2022-12-01,Latrobe (Vic.),Residential,12595471.071,35845
+2022-12-01,Macedon Ranges,Commercial,72.415,2
+2022-12-01,Macedon Ranges,Residential,1544.616,3
+2022-12-01,Manningham,Commercial,655850.0838,374
+2022-12-01,Manningham,Industrial,80740.90400000001,3
+2022-12-01,Manningham,Residential,3265080.9562,5097
+2022-12-01,Mansfield,Commercial,1248066.7567,969
+2022-12-01,Mansfield,Industrial,453756.4912,12
+2022-12-01,Mansfield,Residential,2478326.2419,6470
+2022-12-01,Maroondah,Commercial,5704837.8987,4789
+2022-12-01,Maroondah,Industrial,15367086.1752,212
+2022-12-01,Maroondah,Residential,15720236.9805,47259
+2022-12-01,Mitchell,Commercial,2316485.2358,1813
+2022-12-01,Mitchell,Industrial,4360536.7123,88
+2022-12-01,Mitchell,Residential,7452868.9863,20133
+2022-12-01,Moira,Commercial,45256.0127,81
+2022-12-01,Moira,Industrial,32037.26,1
+2022-12-01,Moira,Residential,98357.773,205
+2022-12-01,Murrindindi,Commercial,1814815.0081,1543
+2022-12-01,Murrindindi,Industrial,938587.1995,27
+2022-12-01,Murrindindi,Residential,3560517.8259,8172
+2022-12-01,Nillumbik,Commercial,2444858.1822,1679
+2022-12-01,Nillumbik,Industrial,5267979.3645,53
+2022-12-01,Nillumbik,Residential,10947693.0469,22652
+2022-12-01,Snowy Valleys,Residential,401.46999999999997,3
+2022-12-01,South Gippsland,Commercial,4391588.3686,3451
+2022-12-01,South Gippsland,Industrial,7847209.6587,57
+2022-12-01,South Gippsland,Residential,6855615.4238,17107
+2022-12-01,Strathbogie,Commercial,1472613.9174,1267
+2022-12-01,Strathbogie,Industrial,974000.2513,31
+2022-12-01,Strathbogie,Residential,2185007.3275,5607
+2022-12-01,Towong,Commercial,962132.6796,931
+2022-12-01,Towong,Industrial,220294.652,8
+2022-12-01,Towong,Residential,1328090.0709,3180
+2022-12-01,Unincorporated Vic,Commercial,714528.4887,597
+2022-12-01,Unincorporated Vic,Industrial,256443.25400000002,17
+2022-12-01,Unincorporated Vic,Residential,299800.8026,1589
+2022-12-01,Wangaratta,Commercial,3193327.2184,2597
+2022-12-01,Wangaratta,Industrial,7446690.62,70
+2022-12-01,Wangaratta,Residential,5179185.8985,13866
+2022-12-01,Wellington,Commercial,8260506.8463,4618
+2022-12-01,Wellington,Industrial,6384157.771,113
+2022-12-01,Wellington,Residential,8177849.9935,23496
+2022-12-01,Whitehorse,Residential,5079.8261,17
+2022-12-01,Whittlesea,Commercial,10162223.9221,6726
+2022-12-01,Whittlesea,Industrial,28968098.0436,377
+2022-12-01,Whittlesea,Residential,27568632.9093,86035
+2022-12-01,Wodonga,Commercial,2715696.816,1847
+2022-12-01,Wodonga,Industrial,12145621.4537,114
+2022-12-01,Wodonga,Residential,6179312.7525,18815
+2022-12-01,Yarra Ranges,Commercial,8339555.2805,6238
+2022-12-01,Yarra Ranges,Industrial,11557543.0464,234
+2022-12-01,Yarra Ranges,Residential,25169890.2696,61760
+2023-01-01,Alpine,Commercial,2496547.3423,1556
+2023-01-01,Alpine,Industrial,2207087.25,23
+2023-01-01,Alpine,Residential,3268941.3806,7716
+2023-01-01,Banyule,Commercial,1809456.4593,1405
+2023-01-01,Banyule,Industrial,3428715.4145,58
+2023-01-01,Banyule,Residential,8369533.9227,22982
+2023-01-01,Bass Coast,Commercial,3821741.4971,2408
+2023-01-01,Bass Coast,Industrial,2651815.0306,62
+2023-01-01,Bass Coast,Residential,10336767.33,30142
+2023-01-01,Baw Baw,Commercial,6363485.7886,3891
+2023-01-01,Baw Baw,Industrial,9356112.694,105
+2023-01-01,Baw Baw,Residential,9585335.7172,25230
+2023-01-01,Benalla,Commercial,1420490.7631,1234
+2023-01-01,Benalla,Industrial,4308407.128,30
+2023-01-01,Benalla,Residential,3121425.5186,7150
+2023-01-01,Brimbank,Commercial,286.1424,1
+2023-01-01,Cardinia,Commercial,7274686.4282,4855
+2023-01-01,Cardinia,Industrial,11985541.8558,188
+2023-01-01,Cardinia,Residential,18155531.697,44949
+2023-01-01,Casey,Commercial,9966288.4653,5635
+2023-01-01,Casey,Industrial,20299136.7953,347
+2023-01-01,Casey,Residential,38876291.8572,110607
+2023-01-01,Darebin,Commercial,264454.9891,126
+2023-01-01,Darebin,Industrial,987699.9581,20
+2023-01-01,Darebin,Residential,917602.6424,2323
+2023-01-01,East Gippsland,Commercial,5446209.6413,4021
+2023-01-01,East Gippsland,Industrial,5335806.5381,86
+2023-01-01,East Gippsland,Residential,9307301.9058,25978
+2023-01-01,Federation,Commercial,123.917,1
+2023-01-01,Frankston,Commercial,38807.6135,17
+2023-01-01,Frankston,Industrial,325538.4523,5
+2023-01-01,Frankston,Residential,13995.548999999999,24
+2023-01-01,Greater Dandenong,Commercial,232855.7118,85
+2023-01-01,Greater Dandenong,Industrial,606199.194,11
+2023-01-01,Greater Dandenong,Residential,4622.0740000000005,4
+2023-01-01,Greater Shepparton,Commercial,6448.227,5
+2023-01-01,Greater Shepparton,Residential,3655.4,7
+2023-01-01,Hume,Commercial,99914.35519999999,46
+2023-01-01,Hume,Industrial,1232090.482,16
+2023-01-01,Hume,Residential,750102.9525,2819
+2023-01-01,Indigo,Commercial,1822498.4568,1337
+2023-01-01,Indigo,Industrial,3983295.5571999997,18
+2023-01-01,Indigo,Residential,3487435.1758,7772
+2023-01-01,Knox,Commercial,7987049.8383,6268
+2023-01-01,Knox,Industrial,20039398.1663,288
+2023-01-01,Knox,Residential,19299286.4054,53383
+2023-01-01,Latrobe (Vic.),Commercial,5800871.4408,4099
+2023-01-01,Latrobe (Vic.),Industrial,29458733.4802,175
+2023-01-01,Latrobe (Vic.),Residential,12618557.9778,35969
+2023-01-01,Macedon Ranges,Commercial,688.945,1
+2023-01-01,Macedon Ranges,Residential,1542.668,3
+2023-01-01,Manningham,Commercial,671187.4185,373
+2023-01-01,Manningham,Industrial,65156.176,3
+2023-01-01,Manningham,Residential,3321621.1774,5095
+2023-01-01,Mansfield,Commercial,1470826.0354,964
+2023-01-01,Mansfield,Industrial,485995.6598,12
+2023-01-01,Mansfield,Residential,2730949.0842,6441
+2023-01-01,Maroondah,Commercial,5880784.9051,4777
+2023-01-01,Maroondah,Industrial,16282541.5867,212
+2023-01-01,Maroondah,Residential,16508113.3047,47329
+2023-01-01,Mitchell,Commercial,2491521.4419,1793
+2023-01-01,Mitchell,Industrial,4694154.9633,89
+2023-01-01,Mitchell,Residential,7745745.5207,20136
+2023-01-01,Moira,Commercial,44765.0095,68
+2023-01-01,Moira,Industrial,30755.52,1
+2023-01-01,Moira,Residential,113299.281,198
+2023-01-01,Murrindindi,Commercial,2218247.1337,1563
+2023-01-01,Murrindindi,Industrial,1000746.4965,27
+2023-01-01,Murrindindi,Residential,3532392.0628,8195
+2023-01-01,Nillumbik,Commercial,2558137.653,1704
+2023-01-01,Nillumbik,Industrial,3987590.9913,53
+2023-01-01,Nillumbik,Residential,11318369.3037,22762
+2023-01-01,Snowy Valleys,Residential,580.32,3
+2023-01-01,South Gippsland,Commercial,4568410.9675,3462
+2023-01-01,South Gippsland,Industrial,6855931.5484,57
+2023-01-01,South Gippsland,Residential,6462203.2655,17136
+2023-01-01,Strathbogie,Commercial,1692066.9369,1300
+2023-01-01,Strathbogie,Industrial,1099365.4164,31
+2023-01-01,Strathbogie,Residential,2433188.899,5633
+2023-01-01,Towong,Commercial,1038213.2007,929
+2023-01-01,Towong,Industrial,228429.038,8
+2023-01-01,Towong,Residential,1407263.1685,3179
+2023-01-01,Unincorporated Vic,Commercial,631657.7336,595
+2023-01-01,Unincorporated Vic,Industrial,184801.096,17
+2023-01-01,Unincorporated Vic,Residential,246841.6827,1588
+2023-01-01,Wangaratta,Commercial,3765177.5917,2611
+2023-01-01,Wangaratta,Industrial,8157666.5600000005,70
+2023-01-01,Wangaratta,Residential,6227791.613,13911
+2023-01-01,Wellington,Commercial,10326192.9422,4640
+2023-01-01,Wellington,Industrial,6221524.938,113
+2023-01-01,Wellington,Residential,8252086.3108,23544
+2023-01-01,Whitehorse,Residential,5138.1916,17
+2023-01-01,Whittlesea,Commercial,10894357.3987,6826
+2023-01-01,Whittlesea,Industrial,31151957.9203,377
+2023-01-01,Whittlesea,Residential,29489549.5934,86217
+2023-01-01,Wodonga,Commercial,3172823.2084,1862
+2023-01-01,Wodonga,Industrial,12898393.2871,114
+2023-01-01,Wodonga,Residential,7872681.0062,18874
+2023-01-01,Yarra Ranges,Commercial,9056145.9382,6243
+2023-01-01,Yarra Ranges,Industrial,11972636.6046,235
+2023-01-01,Yarra Ranges,Residential,25534122.8803,61750
+2023-02-01,Alpine,Commercial,2026477.6042,1563
+2023-02-01,Alpine,Industrial,2067618.408,23
+2023-02-01,Alpine,Residential,2664383.8912,7734
+2023-02-01,Banyule,Commercial,1853970.9377,1443
+2023-02-01,Banyule,Industrial,3177585.746,58
+2023-02-01,Banyule,Residential,7204522.5698,23116
+2023-02-01,Bass Coast,Commercial,3196781.1374,2417
+2023-02-01,Bass Coast,Industrial,2328002.9476,62
+2023-02-01,Bass Coast,Residential,7799330.3485,30203
+2023-02-01,Baw Baw,Commercial,5577880.8388,3868
+2023-02-01,Baw Baw,Industrial,8254879.1377,106
+2023-02-01,Baw Baw,Residential,8288688.181,25252
+2023-02-01,Benalla,Commercial,1277870.8805,1223
+2023-02-01,Benalla,Industrial,4100664.102,30
+2023-02-01,Benalla,Residential,2571207.9195,7129
+2023-02-01,Brimbank,Commercial,258.4512,1
+2023-02-01,Cardinia,Commercial,7011927.8024,4856
+2023-02-01,Cardinia,Industrial,11101142.7419,189
+2023-02-01,Cardinia,Residential,15319299.8592,44918
+2023-02-01,Casey,Commercial,9432047.6634,5657
+2023-02-01,Casey,Industrial,18768354.5479,347
+2023-02-01,Casey,Residential,31941543.809,110835
+2023-02-01,Darebin,Commercial,239546.2708,128
+2023-02-01,Darebin,Industrial,885812.5358,20
+2023-02-01,Darebin,Residential,774839.2692,2328
+2023-02-01,East Gippsland,Commercial,4971261.2654,4045
+2023-02-01,East Gippsland,Industrial,5161931.3804,85
+2023-02-01,East Gippsland,Residential,7886986.5073,25974
+2023-02-01,Federation,Commercial,3.475,1
+2023-02-01,Frankston,Commercial,38367.1005,20
+2023-02-01,Frankston,Industrial,296441.74319999997,5
+2023-02-01,Frankston,Residential,12170.371,25
+2023-02-01,Greater Dandenong,Commercial,246703.01679999998,87
+2023-02-01,Greater Dandenong,Industrial,606251.344,12
+2023-02-01,Greater Dandenong,Residential,3679.254,4
+2023-02-01,Greater Shepparton,Commercial,4107.151,5
+2023-02-01,Greater Shepparton,Residential,2985.8720000000003,7
+2023-02-01,Hume,Commercial,97799.6139,46
+2023-02-01,Hume,Industrial,1157013.8725,16
+2023-02-01,Hume,Residential,629923.8052,2841
+2023-02-01,Indigo,Commercial,1615089.6865,1325
+2023-02-01,Indigo,Industrial,3564035.7701000003,19
+2023-02-01,Indigo,Residential,2942410.6413,7745
+2023-02-01,Knox,Commercial,7980214.2239,6237
+2023-02-01,Knox,Industrial,19253103.6473,288
+2023-02-01,Knox,Residential,16162947.306,53449
+2023-02-01,Latrobe (Vic.),Commercial,5511337.6376,4086
+2023-02-01,Latrobe (Vic.),Industrial,25402333.717,177
+2023-02-01,Latrobe (Vic.),Residential,10981435.4423,35932
+2023-02-01,Macedon Ranges,Commercial,86.073,1
+2023-02-01,Macedon Ranges,Residential,1571.342,3
+2023-02-01,Manningham,Commercial,658900.4674,376
+2023-02-01,Manningham,Industrial,78781.288,3
+2023-02-01,Manningham,Residential,2911708.8964,5119
+2023-02-01,Mansfield,Commercial,1176661.7263,959
+2023-02-01,Mansfield,Industrial,429417.47620000003,12
+2023-02-01,Mansfield,Residential,2078022.1449,6440
+2023-02-01,Maroondah,Commercial,5887470.7233,4740
+2023-02-01,Maroondah,Industrial,14577531.226499999,212
+2023-02-01,Maroondah,Residential,13844513.5367,47243
+2023-02-01,Mitchell,Commercial,2390353.5459,1807
+2023-02-01,Mitchell,Industrial,4727138.9138,90
+2023-02-01,Mitchell,Residential,6628337.2302,20235
+2023-02-01,Moira,Commercial,36727.983,68
+2023-02-01,Moira,Industrial,31210.944,1
+2023-02-01,Moira,Residential,93945.53,198
+2023-02-01,Murrindindi,Commercial,1871945.8687,1561
+2023-02-01,Murrindindi,Industrial,921711.9316,27
+2023-02-01,Murrindindi,Residential,3089582.9877,8233
+2023-02-01,Nillumbik,Commercial,2618598.7388,1722
+2023-02-01,Nillumbik,Industrial,3898828.3052000003,53
+2023-02-01,Nillumbik,Residential,9791591.0122,22784
+2023-02-01,Snowy Valleys,Residential,550.299,3
+2023-02-01,South Gippsland,Commercial,4081440.1363,3462
+2023-02-01,South Gippsland,Industrial,6030686.9311,57
+2023-02-01,South Gippsland,Residential,5549633.3774,17147
+2023-02-01,Strathbogie,Commercial,1509536.162,1294
+2023-02-01,Strathbogie,Industrial,958286.3465,31
+2023-02-01,Strathbogie,Residential,2048983.1725,5644
+2023-02-01,Towong,Commercial,851479.586,909
+2023-02-01,Towong,Industrial,203670.308,8
+2023-02-01,Towong,Residential,1155431.4953,3148
+2023-02-01,Unincorporated Vic,Commercial,570930.8741,603
+2023-02-01,Unincorporated Vic,Industrial,179360.698,17
+2023-02-01,Unincorporated Vic,Residential,217625.2363,1590
+2023-02-01,Wangaratta,Commercial,3567084.3283,2609
+2023-02-01,Wangaratta,Industrial,7651616.785,70
+2023-02-01,Wangaratta,Residential,5193107.7524,13892
+2023-02-01,Wellington,Commercial,9593203.6116,4636
+2023-02-01,Wellington,Industrial,5672064.225,113
+2023-02-01,Wellington,Residential,7187381.2464,23553
+2023-02-01,Whitehorse,Residential,4309.8045,17
+2023-02-01,Whittlesea,Commercial,10520580.619,6768
+2023-02-01,Whittlesea,Industrial,29227192.0001,377
+2023-02-01,Whittlesea,Residential,24792130.4484,86298
+2023-02-01,Wodonga,Commercial,2957003.5007,1879
+2023-02-01,Wodonga,Industrial,13243136.3824,114
+2023-02-01,Wodonga,Residential,6440426.8737,18863
+2023-02-01,Yarra Ranges,Commercial,8626251.3206,6286
+2023-02-01,Yarra Ranges,Industrial,11474321.3137,237
+2023-02-01,Yarra Ranges,Residential,22092517.4125,61838
+2023-03-01,Alpine,Commercial,2357132.9081,1560
+2023-03-01,Alpine,Industrial,2304704.3000000003,23
+2023-03-01,Alpine,Residential,3042967.4151,7737
+2023-03-01,Banyule,Commercial,1882672.2834,1410
+2023-03-01,Banyule,Industrial,3272598.1371999998,59
+2023-03-01,Banyule,Residential,6919785.9353,23049
+2023-03-01,Bass Coast,Commercial,3389913.8444,2411
+2023-03-01,Bass Coast,Industrial,2516379.5894,62
+2023-03-01,Bass Coast,Residential,8470802.1039,30216
+2023-03-01,Baw Baw,Commercial,5561662.2778,3940
+2023-03-01,Baw Baw,Industrial,8218384.1676,106
+2023-03-01,Baw Baw,Residential,8579872.3178,25350
+2023-03-01,Benalla,Commercial,1407771.3061,1245
+2023-03-01,Benalla,Industrial,4470607.5452,30
+2023-03-01,Benalla,Residential,2444774.4985,7136
+2023-03-01,Brimbank,Commercial,286.1424,1
+2023-03-01,Cardinia,Commercial,7291908.4176,4885
+2023-03-01,Cardinia,Industrial,11973038.2952,191
+2023-03-01,Cardinia,Residential,15567332.3143,45089
+2023-03-01,Casey,Commercial,10026813.1048,5668
+2023-03-01,Casey,Industrial,20190588.0801,351
+2023-03-01,Casey,Residential,31956002.6244,111142
+2023-03-01,Darebin,Commercial,248823.7681,125
+2023-03-01,Darebin,Industrial,974135.8749,20
+2023-03-01,Darebin,Residential,750351.9949,2324
+2023-03-01,East Gippsland,Commercial,5304081.203,4020
+2023-03-01,East Gippsland,Industrial,5762623.3355,87
+2023-03-01,East Gippsland,Residential,8681610.1498,26008
+2023-03-01,Federation,Commercial,3.136,1
+2023-03-01,Frankston,Commercial,41839.8299,18
+2023-03-01,Frankston,Industrial,319751.6804,5
+2023-03-01,Frankston,Residential,13091.5415,24
+2023-03-01,Greater Dandenong,Commercial,269640.2778,85
+2023-03-01,Greater Dandenong,Industrial,689508.4700000001,12
+2023-03-01,Greater Dandenong,Residential,3887.7269999999994,4
+2023-03-01,Greater Shepparton,Commercial,4061.3050000000003,5
+2023-03-01,Greater Shepparton,Residential,2915.3755,8
+2023-03-01,Hume,Commercial,109550.5782,46
+2023-03-01,Hume,Industrial,1296626.082,16
+2023-03-01,Hume,Residential,644800.1948,2868
+2023-03-01,Indigo,Commercial,1893560.103,1318
+2023-03-01,Indigo,Industrial,3576919.5658,20
+2023-03-01,Indigo,Residential,3051081.3711,7734
+2023-03-01,Knox,Commercial,8423448.7167,6231
+2023-03-01,Knox,Industrial,20109582.7099,288
+2023-03-01,Knox,Residential,15811915.7772,53445
+2023-03-01,Latrobe (Vic.),Commercial,5896027.165,4051
+2023-03-01,Latrobe (Vic.),Industrial,26317353.0248,177
+2023-03-01,Latrobe (Vic.),Residential,11321608.0543,35954
+2023-03-01,Macedon Ranges,Commercial,74.083,2
+2023-03-01,Macedon Ranges,Residential,1671.846,3
+2023-03-01,Manningham,Commercial,688402.0224,375
+2023-03-01,Manningham,Industrial,88233.532,3
+2023-03-01,Manningham,Residential,2893598.5935,5103
+2023-03-01,Mansfield,Commercial,1237112.2346,962
+2023-03-01,Mansfield,Industrial,457682.50289999996,12
+2023-03-01,Mansfield,Residential,2217763.1015,6486
+2023-03-01,Maroondah,Commercial,6294304.6859,4789
+2023-03-01,Maroondah,Industrial,15310693.4756,212
+2023-03-01,Maroondah,Residential,13660188.4723,47348
+2023-03-01,Mitchell,Commercial,2573576.9276,1822
+2023-03-01,Mitchell,Industrial,5099345.8801,90
+2023-03-01,Mitchell,Residential,6911377.277,20413
+2023-03-01,Moira,Commercial,38217.3497,82
+2023-03-01,Moira,Industrial,36763.2,1
+2023-03-01,Moira,Residential,89848.559,205
+2023-03-01,Murrindindi,Commercial,1907647.5718,1545
+2023-03-01,Murrindindi,Industrial,1016349.4739,27
+2023-03-01,Murrindindi,Residential,3271407.9445,8198
+2023-03-01,Nillumbik,Commercial,2715432.1839,1689
+2023-03-01,Nillumbik,Industrial,5067979.2729,53
+2023-03-01,Nillumbik,Residential,9577237.427,22702
+2023-03-01,Snowy Valleys,Residential,99.183,3
+2023-03-01,South Gippsland,Commercial,4301955.094,3461
+2023-03-01,South Gippsland,Industrial,6952272.397,57
+2023-03-01,South Gippsland,Residential,6104413.4432,17147
+2023-03-01,Strathbogie,Commercial,1511803.1958,1273
+2023-03-01,Strathbogie,Industrial,1103053.6125,31
+2023-03-01,Strathbogie,Residential,2005551.512,5630
+2023-03-01,Towong,Commercial,934206.8814,943
+2023-03-01,Towong,Industrial,243179.948,8
+2023-03-01,Towong,Residential,1283374.0962,3197
+2023-03-01,Unincorporated Vic,Commercial,727789.6231,598
+2023-03-01,Unincorporated Vic,Industrial,230502.948,17
+2023-03-01,Unincorporated Vic,Residential,277902.1508,1588
+2023-03-01,Wangaratta,Commercial,3719454.6349,2606
+2023-03-01,Wangaratta,Industrial,8490671.792,70
+2023-03-01,Wangaratta,Residential,5002761.581,13928
+2023-03-01,Wellington,Commercial,9272208.9991,4630
+2023-03-01,Wellington,Industrial,5901833.691,113
+2023-03-01,Wellington,Residential,7555993.8009,23544
+2023-03-01,Whitehorse,Residential,4145.2137,17
+2023-03-01,Whittlesea,Commercial,11554109.6159,6774
+2023-03-01,Whittlesea,Industrial,30802008.1727,380
+2023-03-01,Whittlesea,Residential,24702209.6418,86528
+2023-03-01,Wodonga,Commercial,3055414.3152,1852
+2023-03-01,Wodonga,Industrial,14278475.395,114
+2023-03-01,Wodonga,Residential,6170003.5972,18858
+2023-03-01,Yarra Ranges,Commercial,9100138.3884,6266
+2023-03-01,Yarra Ranges,Industrial,12302917.8737,238
+2023-03-01,Yarra Ranges,Residential,22250326.9515,61891
+2023-04-01,Alpine,Commercial,2229166.9644,1548
+2023-04-01,Alpine,Industrial,1340850.856,23
+2023-04-01,Alpine,Residential,3880712.8606,7712
+2023-04-01,Banyule,Commercial,1683167.4083,1407
+2023-04-01,Banyule,Industrial,2906422.884,60
+2023-04-01,Banyule,Residential,7336553.5922,23020
+2023-04-01,Bass Coast,Commercial,3387000.205,2422
+2023-04-01,Bass Coast,Industrial,2590765.6346,62
+2023-04-01,Bass Coast,Residential,10269172.7622,30266
+2023-04-01,Baw Baw,Commercial,4823656.453,3905
+2023-04-01,Baw Baw,Industrial,7617972.2896,106
+2023-04-01,Baw Baw,Residential,9589530.5861,25343
+2023-04-01,Benalla,Commercial,1168698.2173,1234
+2023-04-01,Benalla,Industrial,3759533.782,30
+2023-04-01,Benalla,Residential,2580300.5894,7163
+2023-04-01,Brimbank,Commercial,276.912,1
+2023-04-01,Cardinia,Commercial,6573011.9236,4872
+2023-04-01,Cardinia,Industrial,11098585.9569,191
+2023-04-01,Cardinia,Residential,16590617.7557,45141
+2023-04-01,Casey,Commercial,9732872.309700001,5694
+2023-04-01,Casey,Industrial,18648215.7708,353
+2023-04-01,Casey,Residential,33439604.7076,111456
+2023-04-01,Darebin,Commercial,223781.4554,125
+2023-04-01,Darebin,Industrial,906351.9674,20
+2023-04-01,Darebin,Residential,788235.125,2324
+2023-04-01,East Gippsland,Commercial,4686467.081,4015
+2023-04-01,East Gippsland,Industrial,4985876.3981,88
+2023-04-01,East Gippsland,Residential,10223012.2406,26054
+2023-04-01,Federation,Commercial,64.553,1
+2023-04-01,Frankston,Commercial,39856.694299999996,17
+2023-04-01,Frankston,Industrial,301480.6273,5
+2023-04-01,Frankston,Residential,14603.6733,24
+2023-04-01,Greater Dandenong,Commercial,229677.7328,85
+2023-04-01,Greater Dandenong,Industrial,616680.196,12
+2023-04-01,Greater Dandenong,Residential,4663.991,4
+2023-04-01,Greater Shepparton,Commercial,5156.532999999999,5
+2023-04-01,Greater Shepparton,Residential,3857.9710999999998,7
+2023-04-01,Hume,Commercial,106731.838,47
+2023-04-01,Hume,Industrial,1164185.5050000001,16
+2023-04-01,Hume,Residential,701807.6677,2894
+2023-04-01,Indigo,Commercial,1641397.884,1341
+2023-04-01,Indigo,Industrial,2835407.1387,20
+2023-04-01,Indigo,Residential,3486732.0061,7784
+2023-04-01,Knox,Commercial,7605825.1836,6279
+2023-04-01,Knox,Industrial,17608894.8499,288
+2023-04-01,Knox,Residential,16844296.33,53528
+2023-04-01,Latrobe (Vic.),Commercial,5401974.676,4095
+2023-04-01,Latrobe (Vic.),Industrial,22821404.7737,178
+2023-04-01,Latrobe (Vic.),Residential,12584436.8123,36040
+2023-04-01,Macedon Ranges,Commercial,74.161,1
+2023-04-01,Macedon Ranges,Residential,1828.5259999999998,3
+2023-04-01,Manningham,Commercial,617259.0557,374
+2023-04-01,Manningham,Industrial,96886.29,3
+2023-04-01,Manningham,Residential,2995229.2943,5098
+2023-04-01,Mansfield,Commercial,1143010.0529,974
+2023-04-01,Mansfield,Industrial,469215.2533,12
+2023-04-01,Mansfield,Residential,2807382.9381,6470
+2023-04-01,Maroondah,Commercial,5711140.4807,4845
+2023-04-01,Maroondah,Industrial,13825110.7607,213
+2023-04-01,Maroondah,Residential,14814352.257,47437
+2023-04-01,Mitchell,Commercial,2356048.6703,1802
+2023-04-01,Mitchell,Industrial,4564435.6,90
+2023-04-01,Mitchell,Residential,7613067.2351,20414
+2023-04-01,Moira,Commercial,28763.121,69
+2023-04-01,Moira,Industrial,37106.448,1
+2023-04-01,Moira,Residential,95703.227,198
+2023-04-01,Murrindindi,Commercial,1774116.4295,1554
+2023-04-01,Murrindindi,Industrial,945447.7051,27
+2023-04-01,Murrindindi,Residential,4072441.3048,8206
+2023-04-01,Nillumbik,Commercial,2547124.0839,1710
+2023-04-01,Nillumbik,Industrial,4406123.699,53
+2023-04-01,Nillumbik,Residential,10423848.3898,22800
+2023-04-01,Snowy Valleys,Residential,5.0809999999999995,3
+2023-04-01,South Gippsland,Commercial,4107926.0777,3458
+2023-04-01,South Gippsland,Industrial,6333986.8185,57
+2023-04-01,South Gippsland,Residential,7239488.021,17159
+2023-04-01,Strathbogie,Commercial,1298091.1492,1289
+2023-04-01,Strathbogie,Industrial,985301.6194,31
+2023-04-01,Strathbogie,Residential,2246882.2644,5646
+2023-04-01,Towong,Commercial,870184.7107,920
+2023-04-01,Towong,Industrial,243755.338,8
+2023-04-01,Towong,Residential,1440993.6166,3183
+2023-04-01,Unincorporated Vic,Commercial,935071.2139,596
+2023-04-01,Unincorporated Vic,Industrial,277015.144,17
+2023-04-01,Unincorporated Vic,Residential,413694.1075,1588
+2023-04-01,Wangaratta,Commercial,2899632.6596,2606
+2023-04-01,Wangaratta,Industrial,7484321.4614,70
+2023-04-01,Wangaratta,Residential,5073804.4751,13942
+2023-04-01,Wellington,Commercial,6213423.9922,4645
+2023-04-01,Wellington,Industrial,4795199.62,114
+2023-04-01,Wellington,Residential,8492237.2032,23610
+2023-04-01,Whitehorse,Residential,4972.91,17
+2023-04-01,Whittlesea,Commercial,10347826.3875,6831
+2023-04-01,Whittlesea,Industrial,26999961.1779,380
+2023-04-01,Whittlesea,Residential,26173703.6552,86696
+2023-04-01,Wodonga,Commercial,2572797.3074,1871
+2023-04-01,Wodonga,Industrial,11726663.9732,115
+2023-04-01,Wodonga,Residential,5780029.9697,18911
+2023-04-01,Yarra Ranges,Commercial,8132724.1847,6262
+2023-04-01,Yarra Ranges,Industrial,10854967.8585,238
+2023-04-01,Yarra Ranges,Residential,24455289.8041,61852
+2023-05-01,Alpine,Commercial,2569395.6406,1578
+2023-05-01,Alpine,Industrial,2376798.342,23
+2023-05-01,Alpine,Residential,5477960.49,7761
+2023-05-01,Banyule,Commercial,2140856.3582,1450
+2023-05-01,Banyule,Industrial,3720684.61,60
+2023-05-01,Banyule,Residential,10240396.1994,23169
+2023-05-01,Bass Coast,Commercial,3632835.9207,2418
+2023-05-01,Bass Coast,Industrial,2867336.1803,62
+2023-05-01,Bass Coast,Residential,12440936.8111,30299
+2023-05-01,Baw Baw,Commercial,5678844.1952,3894
+2023-05-01,Baw Baw,Industrial,7406147.143999999,106
+2023-05-01,Baw Baw,Residential,12488328.5402,25389
+2023-05-01,Benalla,Commercial,1404378.3921,1222
+2023-05-01,Benalla,Industrial,4578701.026,30
+2023-05-01,Benalla,Residential,3671480.8333,7139
+2023-05-01,Brimbank,Commercial,286.1424,1
+2023-05-01,Cardinia,Commercial,7839257.5923,4917
+2023-05-01,Cardinia,Industrial,13026166.2898,191
+2023-05-01,Cardinia,Residential,21791084.4619,45217
+2023-05-01,Casey,Commercial,11005942.7606,5723
+2023-05-01,Casey,Industrial,20805822.2871,353
+2023-05-01,Casey,Residential,44423436.9516,111736
+2023-05-01,Darebin,Commercial,261109.8035,127
+2023-05-01,Darebin,Industrial,1028937.9115,20
+2023-05-01,Darebin,Residential,1083751.8102,2329
+2023-05-01,East Gippsland,Commercial,5311729.2677,4063
+2023-05-01,East Gippsland,Industrial,5707406.7323,88
+2023-05-01,East Gippsland,Residential,13239566.6951,26063
+2023-05-01,Federation,Commercial,79.533,1
+2023-05-01,Frankston,Commercial,45872.8957,17
+2023-05-01,Frankston,Industrial,332112.4598,5
+2023-05-01,Frankston,Residential,23250.2588,23
+2023-05-01,Greater Dandenong,Commercial,294883.4016,85
+2023-05-01,Greater Dandenong,Industrial,708657.742,12
+2023-05-01,Greater Dandenong,Residential,5618.447,4
+2023-05-01,Greater Shepparton,Commercial,8310.687,5
+2023-05-01,Greater Shepparton,Residential,4415.2146,7
+2023-05-01,Hume,Commercial,123995.2573,48
+2023-05-01,Hume,Industrial,1349551.792,16
+2023-05-01,Hume,Residential,1024826.0544,2925
+2023-05-01,Indigo,Commercial,1832680.288,1329
+2023-05-01,Indigo,Industrial,3552071.3517,20
+2023-05-01,Indigo,Residential,4977901.8403,7764
+2023-05-01,Knox,Commercial,9689321.8469,6244
+2023-05-01,Knox,Industrial,20046269.7208,288
+2023-05-01,Knox,Residential,22526634.1649,53615
+2023-05-01,Latrobe (Vic.),Commercial,6798864.9317,4111
+2023-05-01,Latrobe (Vic.),Industrial,25664650.9258,179
+2023-05-01,Latrobe (Vic.),Residential,16842551.3769,36037
+2023-05-01,Macedon Ranges,Commercial,1.456,1
+2023-05-01,Macedon Ranges,Residential,1508.537,3
+2023-05-01,Manningham,Commercial,769560.2082,377
+2023-05-01,Manningham,Industrial,137945.83000000002,3
+2023-05-01,Manningham,Residential,4073008.8658,5125
+2023-05-01,Mansfield,Commercial,1376416.1771,961
+2023-05-01,Mansfield,Industrial,592270.7594,12
+2023-05-01,Mansfield,Residential,3739797.7813,6468
+2023-05-01,Maroondah,Commercial,7335832.7202,4783
+2023-05-01,Maroondah,Industrial,15377279.9958,213
+2023-05-01,Maroondah,Residential,20069106.3955,47345
+2023-05-01,Mitchell,Commercial,2939077.4694,1811
+2023-05-01,Mitchell,Industrial,5504919.8979,91
+2023-05-01,Mitchell,Residential,10417408.0844,20527
+2023-05-01,Moira,Commercial,33007.5657,69
+2023-05-01,Moira,Industrial,40580.112,1
+2023-05-01,Moira,Residential,133806.13999999998,198
+2023-05-01,Murrindindi,Commercial,2064125.9457,1573
+2023-05-01,Murrindindi,Industrial,1068668.9532,27
+2023-05-01,Murrindindi,Residential,5441071.8796,8263
+2023-05-01,Nillumbik,Commercial,3245783.2175,1732
+2023-05-01,Nillumbik,Industrial,6851142.5307,53
+2023-05-01,Nillumbik,Residential,14342594.9458,22848
+2023-05-01,Snowy Valleys,Residential,0.037,3
+2023-05-01,South Gippsland,Commercial,4532504.435,3477
+2023-05-01,South Gippsland,Industrial,6884185.2016,57
+2023-05-01,South Gippsland,Residential,9149869.6812,17202
+2023-05-01,Strathbogie,Commercial,1465107.675,1302
+2023-05-01,Strathbogie,Industrial,1024049.0806,31
+2023-05-01,Strathbogie,Residential,3159364.6201,5669
+2023-05-01,Towong,Commercial,1005842.0039,911
+2023-05-01,Towong,Industrial,306700.348,8
+2023-05-01,Towong,Residential,2009044.1462,3155
+2023-05-01,Unincorporated Vic,Commercial,1739046.8279,603
+2023-05-01,Unincorporated Vic,Industrial,808830.132,17
+2023-05-01,Unincorporated Vic,Residential,626762.7066,1605
+2023-05-01,Wangaratta,Commercial,3610346.5879,2640
+2023-05-01,Wangaratta,Industrial,6746455.727899999,70
+2023-05-01,Wangaratta,Residential,7325708.2638,13959
+2023-05-01,Wellington,Commercial,6727695.373,4662
+2023-05-01,Wellington,Industrial,5219526.144,114
+2023-05-01,Wellington,Residential,11024685.284,23630
+2023-05-01,Whitehorse,Residential,7468.9524,17
+2023-05-01,Whittlesea,Commercial,12697885.1236,6851
+2023-05-01,Whittlesea,Industrial,30442301.5167,381
+2023-05-01,Whittlesea,Residential,35274496.7684,86909
+2023-05-01,Wodonga,Commercial,3271107.0456,1894
+2023-05-01,Wodonga,Industrial,13817673.5349,115
+2023-05-01,Wodonga,Residential,8254024.8368,18894
+2023-05-01,Yarra Ranges,Commercial,9746583.4847,6316
+2023-05-01,Yarra Ranges,Industrial,12559950.928,238
+2023-05-01,Yarra Ranges,Residential,32593477.8495,61993
+2023-06-01,Alpine,Commercial,2554788.6691,1617
+2023-06-01,Alpine,Industrial,2320920.562,23
+2023-06-01,Alpine,Residential,6025503.5249,7816
+2023-06-01,Banyule,Commercial,2105919.651,1451
+2023-06-01,Banyule,Industrial,3588210.2215,60
+2023-06-01,Banyule,Residential,10440356.4468,23204
+2023-06-01,Bass Coast,Commercial,3812368.6262,2478
+2023-06-01,Bass Coast,Industrial,2933139.549,62
+2023-06-01,Bass Coast,Residential,13827336.137,30409
+2023-06-01,Baw Baw,Commercial,5631765.3185,4054
+2023-06-01,Baw Baw,Industrial,7232511.354400001,106
+2023-06-01,Baw Baw,Residential,13122736.186,25587
+2023-06-01,Benalla,Commercial,1436022.9594,1280
+2023-06-01,Benalla,Industrial,4377880.742000001,30
+2023-06-01,Benalla,Residential,3965151.3246999998,7213
+2023-06-01,Brimbank,Commercial,276.912,1
+2023-06-01,Cardinia,Commercial,7778203.8045,5076
+2023-06-01,Cardinia,Industrial,12119214.8501,191
+2023-06-01,Cardinia,Residential,22728757.705,45542
+2023-06-01,Casey,Commercial,11036104.322900001,5787
+2023-06-01,Casey,Industrial,20335421.2351,353
+2023-06-01,Casey,Residential,46787830.5971,112191
+2023-06-01,Darebin,Commercial,251963.8878,128
+2023-06-01,Darebin,Industrial,1017961.2178,20
+2023-06-01,Darebin,Residential,1120650.4871,2329
+2023-06-01,East Gippsland,Commercial,5288597.9841,4180
+2023-06-01,East Gippsland,Industrial,5473736.034,88
+2023-06-01,East Gippsland,Residential,14026847.046600001,26308
+2023-06-01,Federation,Commercial,3.049,1
+2023-06-01,Frankston,Commercial,45606.7945,20
+2023-06-01,Frankston,Industrial,350184.1095,5
+2023-06-01,Frankston,Residential,21911.8393,26
+2023-06-01,Greater Dandenong,Commercial,290796.8406,87
+2023-06-01,Greater Dandenong,Industrial,674742.508,12
+2023-06-01,Greater Dandenong,Residential,5933.5289999999995,4
+2023-06-01,Greater Shepparton,Commercial,5635.429999999999,5
+2023-06-01,Greater Shepparton,Residential,5468.6096,8
+2023-06-01,Hume,Commercial,123061.3716,48
+2023-06-01,Hume,Industrial,1293658.988,18
+2023-06-01,Hume,Residential,1130608.3654,2989
+2023-06-01,Indigo,Commercial,1863418.3598,1356
+2023-06-01,Indigo,Industrial,3225780.6284000003,20
+2023-06-01,Indigo,Residential,5289044.4791,7815
+2023-06-01,Knox,Commercial,9744158.4222,6353
+2023-06-01,Knox,Industrial,19357940.5798,287
+2023-06-01,Knox,Residential,23575412.8979,53819
+2023-06-01,Latrobe (Vic.),Commercial,7075891.7265,4204
+2023-06-01,Latrobe (Vic.),Industrial,21937273.6901,180
+2023-06-01,Latrobe (Vic.),Residential,18013099.2399,36303
+2023-06-01,Macedon Ranges,Commercial,178.202,2
+2023-06-01,Macedon Ranges,Residential,1342.766,3
+2023-06-01,Manningham,Commercial,743208.2241,378
+2023-06-01,Manningham,Industrial,142556.64,3
+2023-06-01,Manningham,Residential,4146411.4428,5157
+2023-06-01,Mansfield,Commercial,1430469.1438,992
+2023-06-01,Mansfield,Industrial,600650.6454,12
+2023-06-01,Mansfield,Residential,4228471.0983,6519
+2023-06-01,Maroondah,Commercial,7450891.5287,4906
+2023-06-01,Maroondah,Industrial,15503583.3341,213
+2023-06-01,Maroondah,Residential,20954068.0864,47632
+2023-06-01,Mitchell,Commercial,3038602.0937,1878
+2023-06-01,Mitchell,Industrial,5355931.3716,91
+2023-06-01,Mitchell,Residential,11284513.9563,20753
+2023-06-01,Moira,Commercial,32377.639199999998,82
+2023-06-01,Moira,Industrial,36310.064,1
+2023-06-01,Moira,Residential,142445.8545,205
+2023-06-01,Murrindindi,Commercial,2075906.9604,1612
+2023-06-01,Murrindindi,Industrial,1015341.9338,27
+2023-06-01,Murrindindi,Residential,5675162.5865,8292
+2023-06-01,Nillumbik,Commercial,3162648.6556,1761
+2023-06-01,Nillumbik,Industrial,8071844.571,53
+2023-06-01,Nillumbik,Residential,14573600.7844,22957
+2023-06-01,Snowy Valleys,Residential,11.034,3
+2023-06-01,South Gippsland,Commercial,4490705.086,3591
+2023-06-01,South Gippsland,Industrial,6423371.1547,57
+2023-06-01,South Gippsland,Residential,9752047.423,17328
+2023-06-01,Strathbogie,Commercial,1511504.0835,1344
+2023-06-01,Strathbogie,Industrial,1012442.2329000001,31
+2023-06-01,Strathbogie,Residential,3442539.3849,5717
+2023-06-01,Towong,Commercial,1022131.6024,974
+2023-06-01,Towong,Industrial,308625.52599999995,8
+2023-06-01,Towong,Residential,2121718.7454,3244
+2023-06-01,Unincorporated Vic,Commercial,3757246.7207,605
+2023-06-01,Unincorporated Vic,Industrial,1588753.242,17
+2023-06-01,Unincorporated Vic,Residential,1728508.8447,1607
+2023-06-01,Wangaratta,Commercial,3666513.5345,2698
+2023-06-01,Wangaratta,Industrial,7344440.723999999,70
+2023-06-01,Wangaratta,Residential,7882011.7572,14056
+2023-06-01,Wellington,Commercial,6482657.1998,4771
+2023-06-01,Wellington,Industrial,5317972.343,114
+2023-06-01,Wellington,Residential,11826488.5106,23788
+2023-06-01,Whitehorse,Residential,7717.2292,17
+2023-06-01,Whittlesea,Commercial,12823503.8045,6992
+2023-06-01,Whittlesea,Industrial,29724516.0224,381
+2023-06-01,Whittlesea,Residential,37153207.9809,87275
+2023-06-01,Wodonga,Commercial,3398434.1127,1910
+2023-06-01,Wodonga,Industrial,13250824.6703,116
+2023-06-01,Wodonga,Residential,8701207.1064,18972
+2023-06-01,Yarra Ranges,Commercial,9543309.9331,6439
+2023-06-01,Yarra Ranges,Industrial,12083966.4683,238
+2023-06-01,Yarra Ranges,Residential,33782954.6926,62485

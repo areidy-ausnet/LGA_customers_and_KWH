@@ -1,0 +1,6 @@
+#dev packages
+colorama
+black
+radon
+isort
+safety

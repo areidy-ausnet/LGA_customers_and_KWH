@@ -1,0 +1,6 @@
+pandas
+geopandas
+shapely
+git+https://github.com/areidy-ausnet/ausnet_ar_logging.git@v1.0.0#egg=ausnet_ar_logging
+git+https://github.com/areidy-ausnet/ausnet_ar_databases.git@v0.6.0#egg=ausnet_ar_databases
+
