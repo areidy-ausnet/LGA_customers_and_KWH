@@ -4,5 +4,6 @@ where end_date between date '{start_date_str}' and date '{end_date_str}'
 and category_id='100'
 and units='KWH'
 and reversed_trans_id is NULL
+and time_block_id not in ('PFI','GOP','GPK')
 group by trunc(end_date,'MM'), installation_ref
 order by 1,2
